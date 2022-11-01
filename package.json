@@ -94,7 +94,7 @@
     "moment": "^2.29.4",
     "multer": "^1.4.5-lts.1",
     "next": "^12.2.2",
-    "next-auth": "^4.9.0",
+    "next-auth": "^4.10.3",
     "next-connect": "^0.12.2",
     "next-themes": "^0.2.0",
     "next-validations": "^0.2.0",
