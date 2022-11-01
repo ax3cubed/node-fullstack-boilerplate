@@ -1,6 +1,6 @@
 <p align="center"><img src="docs/readme-assets/banner-1280x640-200kb.png"></p>
 
-# Next.js Prisma Boilerplate
+# Node Fullstack Boilerplate
 
 [![tests](https://github.com/nemanjam/nextjs-prisma-boilerplate/actions/workflows/tests.yml/badge.svg)](https://github.com/nemanjam/nextjs-prisma-boilerplate/actions/workflows/tests.yml)
 [![docker build](https://github.com/nemanjam/nextjs-prisma-boilerplate/actions/workflows/build-docker-image.yml/badge.svg)](https://github.com/nemanjam/nextjs-prisma-boilerplate/actions/workflows/build-docker-image.yml)
@@ -11,14 +11,6 @@
 This is full stack boilerplate built around latest Next.js stack. It is composed of the best practices described in official docs combined with my decisions derived from my own experience and knowledge that I have gathered from working with other people.
 
 Don't spend next 3 months making architectural decisions, choosing libraries, setting up dev and prod environments and CI/CD pipelines, writing boilerplate code, _instead install this boilerplate in 15 minutes and start working on your features **today**._
-
-## Demo
-
-#### Live production demo:
-
-> If the app is vandalized just use `Reseed` link on the right side of the footer to reseed the database.
-
-- **[https://nextjs-prisma-boilerplate.localhost3000.live](https://nextjs-prisma-boilerplate.localhost3000.live/)**
 
 #### Gitpod development playground:
 
